@@ -7,7 +7,8 @@
       ///                                                               |" |
 ````
 
-- [ ] Many projects underway, many left for a later date. Lets collab on something.
+- [ ] Many projects underway, many left for a later date. Lets collab on something. ♻️
+- [ ] Bug Hunting always 🎯
 
 <!--
 **jeremysmai/jeremysmai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
